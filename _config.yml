@@ -18,7 +18,7 @@ profile_img: "https://pbs.twimg.com/profile_images/836291006798639105/PlyZXwTL_4
 profile: 21 is the leng of my array list of years, code editor ##ATOM , happines lives in 15. Not all is about 0 and 1
 social:
   github: "https://github.com/novacane"
-  instagram: "https://www.instagram.com/merumlda_lovelace/"
+  instagram: "https://www.instagram.com/merumlda_lovelace"
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
