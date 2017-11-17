@@ -16,7 +16,7 @@ default_img:
 name: RoAlonso
 profile_img: "https://pbs.twimg.com/profile_images/836291006798639105/PlyZXwTL_400x400.jpg"
 profile: 
-social:
+social:console.log(Years[])
   github: "https://github.com/novacane"
 
 # Build settings
