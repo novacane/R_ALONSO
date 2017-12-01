@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "print(Hello World)"
-date: 2017-11-14
+date: 2017-11-30
 categories:
   - LiveTime
 description: Its doest matter the language
@@ -15,4 +15,4 @@ This years i really feel,  so proud of what i can make coding, not just making m
 
 Taking challenges, listening new music , having new incredible partners. And having fun with really important people.
 
-15 / 15 
+15 / 15
